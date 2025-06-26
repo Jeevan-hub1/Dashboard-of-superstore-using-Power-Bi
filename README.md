@@ -64,7 +64,11 @@ The dataset used is the **Sample Superstore dataset**, commonly used in retail a
 
 ## 📸 Dashboard Preview
 
-> *Include screenshots or GIF previews of your dashboard here*
+![image](![image](https://github.com/user-attachments/assets/fefd409c-5c42-4746-bdf9-63398ae000e7)
+![image](https://github.com/user-attachments/assets/fefd409c-5c42-4746-bdf9-63398ae000e7)
+
+![image](https://github.com/user-attachments/assets/3fbfc2ea-e601-4f81-b742-64fef95f4411)
+
 
 ---
 
